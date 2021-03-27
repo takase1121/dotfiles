@@ -23,4 +23,3 @@ I will try to list the programs I used.
 
 # TODO
 - locker (planning to write my own)
-- tabbed for xterm (I should have followed csdvrx to install tabbed as default)
