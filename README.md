@@ -13,6 +13,7 @@ I will try to list the programs I used.
 - picom (`next` branch)
 - mpv 
 - xwinwrap [(my own fork)](https://github.com/takase1121/xwinwrap)
+- tabbed (I use [my own fork](https://github.com/takase1121/tabbed) with clientnumbers, autohide and gruvbox)
 - some more that I forgot.
 
 # Notes
