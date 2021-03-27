@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/home/takase/.config/manage_wp start
+Name=start wallpaper
+Type=Application
+Version=1.0
