@@ -16,6 +16,7 @@ I will try to list the programs I used.
 - some more that I forgot.
 
 # Notes
+- In case you haven't realised, I use chezmoi.
 - `CTRL-X` replaces `CTRL-C` to emit `SIGINT`. This is intentional
 - You must edit the filename in `manage_wp` to use it yourself. Mine is `blue.mp4`
 
