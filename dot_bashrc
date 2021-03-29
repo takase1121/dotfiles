@@ -9,7 +9,7 @@
 alias ls='ls --color=auto'
 
 # Make sure cursor is blinking I-beam
-echo -e "\e[5 q"
+# echo -e "\e[5 q"
 
 # enable starship prompt
 eval "$(starship init bash)"

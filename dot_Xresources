@@ -148,8 +148,8 @@ XTerm*foreground: #fbf1c7
 !Colors: Solarized dark
 !-------------------------
 !black
-XTerm*color0: #1d2021
-XTerm*color8: #3c3836
+XTerm*color0: #a89984
+XTerm*color8: #a89984
 
 !red
 XTerm*color1: #cc241d
