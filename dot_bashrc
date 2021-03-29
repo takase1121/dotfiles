@@ -20,5 +20,8 @@ stty intr ^X
 # load .local
 PATH="$PATH:$HOME/.local/bin"
 
+# nano as EDITOR
+export EDITOR=nano
+
 # if there is .bash_aliases load it
 [[ -f $HOME/.bash_aliases ]] && source $HOME/.bash_aliases
