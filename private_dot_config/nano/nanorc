@@ -209,7 +209,7 @@ set promptcolor yellow,lightblack
 set statuscolor bold,white,green
 set errorcolor bold,white,red
 set spotlightcolor black,cyan
-set selectedcolor black,cyan
+set selectedcolor lightblack,cyan
 set stripecolor cyan,yellow
 set scrollercolor black
 set numbercolor cyan
