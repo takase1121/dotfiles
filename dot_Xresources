@@ -11,7 +11,7 @@ XTerm*decTerminalID: 340
 XTerm*numColorRegisters: 256
 
 ! Matching terminfo for all that
-XTerm*termName: xterm-new
+XTerm*termName: xterm-256color
 
 ! Dont toggle the 8th bit
 XTerm.vt100.metaSendsEscape: true
@@ -148,8 +148,8 @@ XTerm*foreground: #fbf1c7
 !Colors: Solarized dark
 !-------------------------
 !black
-XTerm*color0: #a89984
-XTerm*color8: #a89984
+XTerm*color0: #3c3836
+XTerm*color8: #504945
 
 !red
 XTerm*color1: #cc241d
@@ -241,3 +241,8 @@ XTerm*faceSize: 14
 ! FIXME: The following can help making it more visible
 !XTerm*pointerColor: blue
 !XTerm*pointerColorBackground: red
+
+
+
+!Xft config
+Xft.dpi: 120
