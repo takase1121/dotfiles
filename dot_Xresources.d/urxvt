@@ -11,7 +11,7 @@ URxvt.perl-ext-common: default,confirm-paste,matcher,tabbedex,background
 !Background
 URxvt.background.expr: \
 center keep { \
-	shade -0.4, \
+	shade -0.5, \
 		keep { load "/home/takase/.config/urxvt_bg_blur.png" } \
 }
 
