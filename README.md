@@ -1,5 +1,6 @@
 # dotfiles
 
+# REPLACED BY [version 2](https://github.com/takase1121/dotfiles2).
 
 My dotfiles. Has a lot of pitfalls so be careful when applying.
 
